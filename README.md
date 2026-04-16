@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ## 🌟 About Me
 
 - 🎓 MCA Graduate  
