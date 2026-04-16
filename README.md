@@ -32,17 +32,6 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merupeshpradhan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merupeshpradhan&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌟 About Me
 
 - 🎓 MCA Graduate  
