@@ -32,6 +32,10 @@
 
 </p>
 
+---
+
+---
+
 ## 🌟 About Me
 
 - 🎓 MCA Graduate  
