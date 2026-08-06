@@ -12,20 +12,6 @@
 
 ---
 
-# 👋 Hi there, I'm Rupesh Pradhan!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
-</p>
-
-<h3 align="center">💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | 🔐 Backend Developer</h3>
-
-<p align="center">
-  Passionate about building scalable web applications, creating secure backend systems, and continuously learning modern technologies. 🚀
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -38,44 +24,6 @@
 | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
-
----
-
-## 🌟 About Me
-
-- 🎓 MCA Graduate
-- 💻 Full Stack Developer specializing in the MERN Stack
-- 🔐 Experienced in JWT Authentication & REST API Development
-- 🗄️ Worked with MongoDB, PostgreSQL & Prisma ORM
-- ☁️ Integrated Cloudinary for image upload and management
-- 🚀 Passionate about Backend Development & System Design
-- 📚 Always learning modern web technologies and building real-world projects
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=merupeshpradhan@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merupeshpradhan) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merupeshpradhan) |
-
-</div>
-
-<p align="center">
-📧 <strong>merupeshpradhan@gmail.com</strong>
-</p>
-
----
-
-## ❤️ Thanks for Visiting!
-
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories.<br>
-🚀 Let's connect and build something amazing together!
-</p>
-
 
 ---
 
